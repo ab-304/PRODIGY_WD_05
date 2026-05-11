@@ -25,6 +25,3 @@ Build a Weather Web Application using HTML, CSS, and JavaScript that fetches rea
 
 ## API Used
 OpenWeatherMap API
-
-## Live Demo
-(Add GitHub Pages link here)
